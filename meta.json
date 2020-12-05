@@ -1,0 +1,36 @@
+{
+	"links": [{
+		"name": "Teams",
+		"url": "https://teams.microsoft.com/_?tenantId=150b5e66-3d88-4dee-83f6-ed149b727a00#/conversations/NYC%20Python%20-%20May%202020?threadId=19:2f8bd7083f7d445fb04a2faa7cd3e744@thread.tacv2&ctx=channel",
+        "desc": "Teams is our online classroom - we will share class notes, videos, lectures, etc here. ➡️"
+	}, {
+		"name": "Zoom",
+		"url": "https://generalassembly.zoom.us/j/96491676711?pwd=eXIxQjdCNnFvTHF3cEdrVlZIS0FRdz09",
+        "desc": "This is our link to our biweekly zoom meeting"
+	}, {
+		"name": "Feedback",
+		"url": "https://www.surveymonkey.co.uk/r/FXGR8N3?Cohort_ID=[Cohort_ID_value]",
+        "desc": "Have feedback? Please provide it here!"
+	}, {
+        "name": "HW",
+        "url": "https://airtable.com/shrLwGLoUzUOkPYEk",
+        "desc": "Please submit your homework assignments via this form"
+    }, {
+        "name": "PSETs",
+        "url": "https://github.com/mottaquikarim/wpp_psets",
+        "desc": "Please access practice sets for in class assignments and homework here."
+    }, {
+        "name": "REPL.it",
+        "url": "https://repl.it/languages/python3",
+        "desc": "Online python runtime environment"
+    }, {
+	"name": "Videos",
+	"url": "https://airtable.com/shriIcUjkHb9iElg8",
+	"desc": "Screen recordings from lecture"
+    }, {
+	"name": "Notes",
+	"url": "https://airtable.com/shrneytIH2H7j4UWt",
+	"desc": "Lecture notes from Taq"
+    }]
+}
+
