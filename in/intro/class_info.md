@@ -43,4 +43,4 @@ Please find homework assignments and due dates here.
 
 Sign up here:
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr494wCzeV3GpyRT?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+**TBD**
