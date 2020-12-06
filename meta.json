@@ -8,11 +8,11 @@
 		"url": "https://generalassembly.zoom.us/j/91241981679?pwd=L2hTUWJ4YWZpV3dIMUd6eXN3dXhrQT09",
         "desc": "This is our link to our biweekly zoom meeting"
 	}, {
-		"name": "Feedback",
-		"url": "",
-        "desc": "Have feedback? Please provide it here!"
-	}, {
-        "name": "HW",
+        "name": "HW Assignments",
+        "url": "#in/homework/all_hw",
+        "desc": "Please submit your homework assignments via this form"
+    }, {
+        "name": "Submit HW",
         "url": "#in/homework/all_hw",
         "desc": "Please submit your homework assignments via this form"
     }, {
