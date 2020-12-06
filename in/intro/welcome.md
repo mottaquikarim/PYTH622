@@ -1,4 +1,4 @@
-# Welcome, WPP! 👋👋
+# Welcome! 👋👋
 
 <img src="https://media.giphy.com/media/Tld8USHlpopYA/giphy.gif" height="150px" /><img src="https://media.giphy.com/media/Ftz07proVX6Rq/giphy.gif" height="150px" /><img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" height="150px" />
 

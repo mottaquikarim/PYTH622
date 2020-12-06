@@ -4,28 +4,7 @@ Hello, team! A few important links and ideas here - all public for the sake of t
 
 ## 👉 [Airtable](https://airtable.com/invite/l?inviteId=invyjyDY3FREI0V7s&inviteToken=77a8c4b974b0a587ee78402b150aeb7f13cc931295fd51a8f26736e641f06efb) 👈
 
-This is the invitation to our WPP class base. This link is _only_ available to folks with **generalassemb.ly** email addresses. There will be several bases here that help us manage various parts of classroom tasks. If you haven't done so yet, **please sign up ASAP** 
-
-## Squads
-
-We will align ourselves into 4 **squads**. Each IA will be the **squad lead**. I ran a simple `n mod 4` to determine who ends up in which squad. Squads are named after pokemon to discourage the notion that they are somehow ranked (ie: hence no squad 1,2,3,4 or squad a.b.c.d):
-
-* A
-* B
-* C
-* D
-
-(After the class starter pokemon, ofc!).
-
-### [Public Facing Squad Roster](https://airtable.com/shrX4qrqTERyfcgla)
-
-In this base, I remove PII (emails) but still give you the ability to filter and group. However, you also have full readonly access to all the views (and emails) materialized here: [**Squad Base**](https://airtable.com/tblXKK1OayuV4KlqE/viwaZbR8uIukninHI?blocks=hide). (You can navigate the views with the dropdown on the top left).
-
-### Managing Squad Members
-
-IMO the best approach here is to create a DM space on Teams that includes you, your squad members, and me. This space can be used to manage and handle specific questions your squad members might have and to reach out to folks in a more intimate environment. Ideally, we want to encourage our friends to speak up in these DMs and to feel _comfortable_ to speak up.
-
-Additionally, general homework feedback can be passed along here. 
+This is the invitation to our WPP class base. This link is _only_ available to folks with **generalassemb.ly** email addresses. There will be several bases here that help us manage various parts of classroom tasks. If you haven't done so yet, **please sign up ASAP**
 
 ## Attendance
 
