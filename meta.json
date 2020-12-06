@@ -8,7 +8,7 @@
 		"url": "https://generalassembly.zoom.us/j/91241981679?pwd=L2hTUWJ4YWZpV3dIMUd6eXN3dXhrQT09",
         "desc": "This is our link to our biweekly zoom meeting"
 	}, {
-        "name": "HW Assignments",
+        "name": "HW Info",
         "url": "#in/homework/all_hw",
         "desc": "Please submit your homework assignments via this form"
     }, {
@@ -19,10 +19,6 @@
         "name": "PSETs",
         "url": "https://drive.google.com/drive/folders/1Lhh37bM0SOXgt8TnPb4U2R-t_e-XkIyc?usp=sharing",
         "desc": "Please access practice sets for in class assignments and homework here."
-    }, {
-        "name": "REPL.it",
-        "url": "https://repl.it/languages/python3",
-        "desc": "Online python runtime environment"
     }, {
 	"name": "Videos",
 	"url": "",
