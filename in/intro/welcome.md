@@ -6,15 +6,22 @@
 ## Agenda
 
 1. Class Overview
-2. Class Rituals
-3. Zoom
-4. Tools
+2. Survey
+3. Class Rituals
+4. Zoom
+5. Tools
+6. Ice breaker!
 
 ## Class Overview
 
 **We are here to learn Python**.
 
 This website is called: **[https://taq.website/PYTH127](https://taq.website/PYTH127)** -- please bookmark it! It will serve as your source of truth going forward.
+
+### First Day Survey
+
+🤩🤩
+Tell us about yourself [here](https://docs.google.com/forms/d/1fFN7AUMimrB57olpkzWQLQefWBQWC56mEbOEayPZa5M/viewform?edit_requested=true)
 
 ### Website Walkthrough
 
@@ -69,3 +76,5 @@ Primarily, we will be using **[Colab](https://colab.research.google.com/notebook
 ### Browser
 
 It is strongly recommended that you use [Google Chrome](https://www.google.com/chrome/) for this class.
+
+## 🧊 Ice Breaker Time!!! 🧊
