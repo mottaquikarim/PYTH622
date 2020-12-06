@@ -13,7 +13,7 @@
         "desc": "Have feedback? Please provide it here!"
 	}, {
         "name": "HW",
-        "url": "https://airtable.com/shrLwGLoUzUOkPYEk",
+        "url": "#in/homework/all_hw",
         "desc": "Please submit your homework assignments via this form"
     }, {
         "name": "PSETs",
