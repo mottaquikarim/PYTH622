@@ -10,10 +10,10 @@
 	}, {
         "name": "HW Info",
         "url": "#in/homework/all_hw",
-        "desc": "Please submit your homework assignments via this form"
+        "desc": "Please find homework assignments here"
     }, {
         "name": "Submit HW",
-        "url": "#in/homework/all_hw",
+        "url": "https://airtable.com/shrI6aXjPY1fIgD7a",
         "desc": "Please submit your homework assignments via this form"
     }, {
         "name": "PSETs",
@@ -21,7 +21,7 @@
         "desc": "Please access practice sets for in class assignments and homework here."
     }, {
 	"name": "Videos",
-	"url": "",
+	"url": "https://airtable.com/shrhCj3fAF2QGmMyy",
 	"desc": "Screen recordings from lecture"
     }, {
 	"name": "Notes",
