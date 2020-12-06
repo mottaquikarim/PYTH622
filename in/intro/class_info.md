@@ -8,18 +8,25 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 2  | Dec 9th  |  [Basic Data Types](#out/topics/basic_data_types), [String Formatting](#out/topics/string_formatting)|
 | 3  | Dec 14th  | [String Formatting](#out/topics/string_formatting), [Conditionals](#out/topics/conditionals)  |
 | 4  | Dec 16th  | [Lists](#out/topics/lists), [Tuples & Sets](#out/topics/tuples_sets), [Loops](#out/topics/loops), [Dicts](#out/topics/dicts) |
-| 5  | May 19th  | [Loops](#out/topics/loops), [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) |
-| 6  | May 21st  | [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) |
-| 7  | May 26th  | [Command Line Review](https://show.zohopublic.com/publish/ivvjw880a8176a10d44ecbc4638c07bc180db), [Functions](#out/topics/functions), [Debugging](#out/topics/debugging) |
-| 8  | May 28th  | [Classes](#out/topics/classes) |
-| 9  | June 2nd  |  |
-| 10  | June 4th | APIs |
-| 11  | June 9th | [Unit 3 Lab - Flask API](#in/intro/financeservice) |
-| 12  | June 11th | Course Review, Project Intro |
-|     | June 16th | **NO CLASS** |
-|     | June 18th | **NO CLASS** |
-| 13  | June 23rd | Project Work |
-| 14  | June 25th | [Project Presentations](https://mottaquikarim.github.io/PYTHWPP1/stage/index.html?lecture=1#/) |
+| 5  | Dec 21st  | [Loops](#out/topics/loops), [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) |
+| 6  | Dec 23rd  | [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) |
+|     | Dec 28th | **NO CLASS** |
+|     | Dec 30th | **NO CLASS** |
+| 7  | Jan 4th  | [Functions](#out/topics/functions), [Debugging](#out/topics/debugging) |
+| 8  | Jan 6th  | [Classes](#out/topics/classes) |
+| 9  | Jan 11th  |  |
+| 10  | Jan 13th |  |
+|     | Jan 18th | **NO CLASS** |
+| 11  | Jan 20th |  |
+| 12  | Jan 25th | Course Review, Project Intro |
+| 13  | Jan 27th |  |
+| 14  | Feb 1st |  |
+| 15  | Feb 3rd |  |
+| 16  | Feb 8th |  |
+| 16  | Feb 10th |  |
+| 15  | Feb 17th |  |
+| 16  | Feb 22nd |  |
+| 16  | Feb 24th | [Project Presentations]() |
 
 <br/><br/>
 
