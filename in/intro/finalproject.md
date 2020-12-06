@@ -1,28 +1,40 @@
 # Final Project
 
-**Prompt**: Build a simple webserver application with Flask. It must be available via [GitHub](https://github.com/wppai), complete with a [README](https://www.makeareadme.com/).
+## Overview
 
-## Requirements
+For your final project, you will leverage data to formally analyze a question or problem in an area that interests you. Your project should reflect significant original work in applying beginner data science techniques to your chosen topic. Using public data - such as government data, open business data, or academic research data - is the most common choice. If you have access to private data, that's also an option, though you'll have to be careful about what results you can release. Although final projects are individual assignments, peer code review is strongly encouraged.
 
-* **THREE** Flask API endpoints implemented, with the following requirements:
-  * 1 **GET** endpoint, returns JSON
-  * 1 **GET** endpoint, returns HTML
-  * (your third endpoint can do/be anythig you want! HTML/JSON/something else, up to you!)
-* One public API used, see [here](https://github.com/public-apis/public-apis) for examples/inspiration. Feel free to use any API that you want, not necessarily the ones provided in the Public APIs repo.
-* HTML endpoint must use [Bootstrap](https://getbootstrap.com/)
-* Your project should live in a GitHub repo, with a clear [README](https://www.makeareadme.com/) (use the example in the provided link as a template)
+## Project Deliverables
 
-## Deliverables
+Your final project should be submitted within a GitHub repository. At a high level, deliverables include:
 
-* You must have a Flask site running locally on your own machine
-* You must upload your Github repo URL [here](https://airtable.com/shrgqwJm9uRyyIvqq)
+* A README.md file that contains a brief written summary of your project analysis and its components.
+* File(s) containing the raw data used in your analysis
+	* If it's not possible or practical to include your data, you should link to your data source and provide a sample of the data (anonymized if necessary).
+* A .ipynb file containing the code for your analysis, presented in a way that creates an engaging, clear, and informative story about your project.
+	* Note: You can save from Colab straight into your Github repo.
+* On the last day of class, you will present your final project via your Colab notebook, highlighting relevant speaking points from your written summary.
 
-## Presentations
+## Written Project Summary
 
-You will have to present your project during the last week of the course (**Thursday June 25th**). To do so, you will start flask on your machine locally, share your screen with the rest of the class and then walk through your project, demonstrating your API endpoints in **two-four** minutes, max.
+Here are the components you should aim to cover in your written summary. This is NOT meant to be an essay. It should be outlined in bullet points and/or small text blocks as applicable.
 
-The reason for the aggressive timeline is that we have **50 people** in class so 4mins/person is **200 minutes**, or a little over 3 hours.
+Problem statement and hypothesis
 
-Additionally, folks are encouraged to sign up to **prerecord** their presentation **OR** present on **Tuesday June 23rd** during the first hour of class (second hour is for project help). This would be trememndously helpful as we can finish on time on Thursday and potentially help folks who are typically unable to join via video Zoom chats during class anyways.
+* Description of your data set and how it was obtained
+* Data dictionary
+* How and why you chose which variables to use in your analysis
+* A brief description of any data wrangling and cleaning steps you took
+* Any challenges encountered
+* A few key insights you derived from your analysis
+* Conclusion(s) / key takeaways from your analysis
 
-Please sign up to volunteer to present earlier **[here](https://airtable.com/shrcM2PdCie8SqI0k)**
+## Example Student Projects
+
+These examples are meant to inspire ideas for your analysis. They should NOT be used as reference points for what you need to deliver with your project.
+
+* [Apple's iOS Appstore Analysis]()
+* [Weather Impact on NYC Electric Load](https://github.com/JPelaez91/GA_Final_Project/blob/master/NYC_Weather_Energy.ipynb)
+* [FBI NICS - Firearm Background Check Analysis](https://github.com/nmosewe/FBI-NICS---Firearm-Background-Check-Analysis/blob/master/fbi-nics-background-check-analysis.ipynb)
+* [Financial Development and Structure Research](https://github.com/RoyceKok211/Financial_Development_and_Structure_Research)
+* [CitiBike Usage/Weather Analysis](https://github.com/vetteryadam2/Citibike_Weather)
