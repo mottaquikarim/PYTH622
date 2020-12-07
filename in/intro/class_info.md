@@ -5,7 +5,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | Lecture # | Date | Links |
 | --------- | ---- | ------------- |
 | 1  | Dec 7th  | [🎉Intro](#in/intro/welcome), [Essential Terminology & Pseudo-Code](#out/topics/essential_terminology) |
-| 2  | Dec 9th  |  [Basic Data Types](#out/topics/basic_data_types), [Modules](#out/topics/modules), [String Formatting](#out/topics/string_formatting), |
+| 2  | Dec 9th  |  [Basic Data Types](#out/topics/basic_data_types), [String Formatting](#out/topics/string_formatting), [Modules](#out/topics/modules) |
 | 3  | Dec 14th  | [Conditionals](#out/topics/conditionals)  |
 | 4  | Dec 16th  | [Lists](#out/topics/lists), [Tuples & Sets](#out/topics/tuples_sets) |
 | 5  | Dec 21st  | [Loops](#out/topics/loops), [Dicts](#out/topics/dicts) |
