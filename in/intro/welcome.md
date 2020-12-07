@@ -31,6 +31,29 @@ Why don't we spend a few minutes walking through this website and the features i
 
 Here are some class rituals to be aware of.
 
+### Slack
+
+We will use slack for **all** communications. If you don't mind, please do not email us! If all comms are in slack, it is easier for us to prioritize and ensure we get back to you in a reasonable time frame.
+
+Do note that slack is for real time communication. If there are any output artifacts (psets, docs, etc), they will all live in the class website. If something is a candidate for saving, please flag and we can post it to the website. Bringing this up because our slack workspace is free and eventually we will lose history.
+
+#### Chans
+
+* #general: for announcements, primarily. Please refrain from posting here (intended to be used by Taq/Julianna)
+* #questions: this is your space! Ask away! Any questions you may have related to content is fair game.
+* #recap: brief review of stuff we covered in class
+* #intros: pls introduce yourself! and feel free to comment/interact
+* #random: watercooler stuff, share cool things/etc.
+
+#### Etiquette
+
+Generally speaking, try to reply in threads. So for example, if Person A posts a question, all discussion ought to happen in thread. This keeps clutter minimal and makes it easier for us to find stuff down the line.
+
+Reactions are encouraged! During class, I might take the "room temperature" by soliciting reactions. As such, **please keep slack available and open** during lecture!
+
+DMs: feel free to DM **both** Julianna and me for any question you have. Ideally, questions about content should be in #questions chan (unless you don't feel comfortable). Things specific to your situation or more private ought to be DM'd directly. Again, please CC the both of us - this increases the liklihood that we get back to you faster!
+
+
 ### Attendance
 
 At the start of every class, you will be asked to fill out a form to **check-in** to class. This form will require a **token** that will be communicated to you verbally via Zoom. This ensures that whoever checked in was at least present in the beginning of class.
