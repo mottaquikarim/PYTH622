@@ -35,7 +35,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 ## Office Hours
 
 * Sundays *(time TBD)* with Julianna
-* Mondays 9-10PM with Taq
+* Mondays 7-8PM ET with Taq
 
 Sign up here:
 
