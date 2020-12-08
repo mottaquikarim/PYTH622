@@ -62,7 +62,7 @@ The link for attendance check-in will be posted to the *#general* channel in Sla
 
 ### Questions/Feedback
 
-Feedback is a **key** part of this course. At the end of every lecture, we will ask you to fill out an **[exit ticket]()** (also available via the quick links section on class homepage).
+Feedback is a **key** part of this course. At the end of every lecture, we will ask you to fill out an **[exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSeSJGd8dypyY7azz3AyDNZ8t2zdUKDBi0Oz6UUD59gWIytxIQ/viewform)** (also available via the quick links section on class homepage).
 
 Feedback and also questions are paramount to our success as a class and your success in learning to code. Please don't be shy! If you feel comfortable, pleaes ask your question on the Slack *#questions* channel. Otherwise, please DM Julianna and Taq directly for specific/personal questions.
 
