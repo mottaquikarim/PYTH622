@@ -34,9 +34,9 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
  
 ## Office Hours
 
-* Sundays *(time TBD)* with Julianna
+* Sundays with Julianna via our regular Zoom room
+  * From **1-2pm ET**, I will go through the week's hw. Any and everyone can attend. I will record my screen so that people who cannot make it can watch asynchronously. Those videos will be posted below.
+  * Sign up for 15-minute slots between **2-3:30pm ET** [here](https://docs.google.com/spreadsheets/d/1QCFiPUrovPPSyYPBOIEDMcTJuCWpZ5FzzazmCQm4mww/edit?usp=sharing).
 * Mondays 7-8PM ET with Taq
 
-Sign up here:
 
-**TBD**
