@@ -7,9 +7,9 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 1  | Dec 7th  | [🎉Intro](#in/intro/welcome), [Essential Terminology & Pseudo-Code](#out/topics/essential_terminology) |
 | 2  | Dec 9th  |  [Basic Data Types](#out/topics/basic_data_types), [String Formatting](#out/topics/string_formatting), [Modules](#out/topics/modules) |
 | 3  | Dec 14th  | [Conditionals](#out/topics/conditionals)  |
-| 4  | Dec 16th  | [Lists](#out/topics/lists), [Tuples & Sets](#out/topics/tuples_sets) |
-| 5  | Dec 21st  | [Loops](#out/topics/loops), [Dicts](#out/topics/dicts) |
-| 6  | Dec 23rd  | [Functions](#out/topics/functions) |
+| 4  | Dec 16th  | [Lists](#out/topics/lists) |
+| 5  | Dec 21st  | [Tuples & Sets](#out/topics/tuples_sets), [Loops](#out/topics/loops) |
+| 6  | Dec 23rd  | [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) |
 |     | Dec 28th | **NO CLASS** |
 |     | Dec 30th | **NO CLASS** |
 | 7  | Jan 4th  | [Functions](#out/topics/functions) |
