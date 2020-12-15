@@ -36,8 +36,8 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 
 * Mondays 7-8PM ET with Taq
 * Sundays with Julianna via [Zoom](https://generalassembly.zoom.us/j/91241981679?pwd=L2hTUWJ4YWZpV3dIMUd6eXN3dXhrQT09)
-  * From **1-2pm ET**, I will go through the week's hw. Any and everyone can attend. I will record my screen so that people who cannot make it can watch asynchronously. Those videos will be posted below.
-  * Sign up for 15-minute slots between **2-3:30pm ET** [here](https://docs.google.com/spreadsheets/d/1QCFiPUrovPPSyYPBOIEDMcTJuCWpZ5FzzazmCQm4mww/edit?usp=sharing).
+  * From **1-2pm ET**, I will go through the week's hw. Any and everyone can attend. I will record my screen so that people who cannot make it can watch asynchronously. Those videos will be posted and can be found by click on "Videos" in the header menu.
+  * Sign up for 15-minute slots between **2-3:30pm ET** [here](https://docs.google.com/spreadsheets/d/1QCFiPUrovPPSyYPBOIEDMcTJuCWpZ5FzzazmCQm4mww/edit?usp=sharing). Please sign up *before* 2pm the day of.
 
 *If your questions pertain to specific hw problems, please try to come to the hw review or to watch it on your own time. If you have other questions and/or want feedback on your specific hw code, sign up for the individual slots. The Zoom url for joining all office hours will be in the office hours section of our class site.*
 
