@@ -19,8 +19,8 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 |    | Jan 18th | **NO CLASS** |
 | 11 | Jan 20th | Build Pandas from Scratch |
 | 12 | Jan 25th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
-| 13 | Jan 27th | Final Project Intro!, [Data Wrangling](#out/topics/wrangling1) |
-| 14 | Feb 1st  | [Data Cleaning](#out/topics/data_cleaning) |
+| 13 | Jan 27th | Final Project Intro!, [Data Wrangling I](#out/topics/wrangling1) |
+| 14 | Feb 1st  | [Data Wrangling II](#out/topics/wrangling2) |
 | 15 | Feb 3rd  | **TBD** |
 | 16 | Feb 8th  | **TBD** |
 | 17 | Feb 10th | **TBD** |
