@@ -21,11 +21,11 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 12 | Jan 25th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
 | 13 | Jan 27th | Final Project Intro!, [Data Wrangling I](#out/topics/wrangling1) |
 | 14 | Feb 1st  | [Data Wrangling II](#out/topics/wrangling2) |
-| 15 | Feb 3rd  | **TBD** |
-| 16 | Feb 8th  | **TBD** |
-| 17 | Feb 10th | **TBD** |
-| 18 | Feb 17th | **TBD** |
-| 19 | Feb 22nd | **TBD** |
+| 15 | Feb 3rd  | Titanic Lab |
+| 16 | Feb 8th  | EDA (Exploratory Data Analysis) |
+| 17 | Feb 10th | Data Viz |
+| 18 | Feb 17th | *Airbnb Lab (Tentative) |
+| 19 | Feb 22nd | *Intro to APIs or Final Project Work (Tentative)* |
 | 20 | Feb 24th | [Project Presentations]() |
 
 
