@@ -15,18 +15,18 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 7  | Jan 4th  | [Functions](#out/topics/functions) |
 | 8  | Jan 6th  | [Functions](#out/topics/functions) |
 | 9  | Jan 11th | [Classes](#out/topics/classes) |
-| 10 | Jan 13th | [Classes](#out/topics/classes) |
+| 10 | Jan 13th | Build Pandas from Scratch |
 |    | Jan 18th | **NO CLASS** |
-| 11 | Jan 20th | Build Pandas from Scratch |
-| 12 | Jan 25th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
-| 13 | Jan 27th | Final Project Intro!, [Data Wrangling I](#out/topics/wrangling1) |
-| 14 | Feb 1st  | [Data Wrangling II](#out/topics/wrangling2) |
-| 15 | Feb 3rd  | Titanic Lab |
-| 16 | Feb 8th  | EDA (Exploratory Data Analysis) |
-| 17 | Feb 10th | Data Viz, *Airbnb Lab (Tentative)* |
+| 11 | Jan 20th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
+| 12 | Jan 25th | Final Project Intro!, [Data Wrangling I](#out/topics/wrangling1) |
+| 13 | Jan 27th | [Data Wrangling II](#out/topics/wrangling2) |
+| 14 | Feb 1st  | Titanic Lab |
+| 15 | Feb 3rd  | EDA (Exploratory Data Analysis) |
+| 16 | Feb 8th  | Data Viz |
+| 17 | Feb 10th | *Airbnb Lab (Tentative)* |
 |    | Feb 15th | **NO CLASS** |
-| 18 | Feb 17th | *Airbnb Lab Review (Tentative)* |
-| 19 | Feb 22nd | *Intro to APIs or Final Project Work (Tentative)* |
+| 18 | Feb 17th | *Intro to APIs (Tentative)* |
+| 19 | Feb 22nd | *Final Project Work (Tentative)* |
 | 20 | Feb 24th | [Project Presentations]() |
 
 
