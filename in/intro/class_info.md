@@ -23,7 +23,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 14 | Feb 1st  | [Data Wrangling II](#out/topics/wrangling2) |
 | 15 | Feb 3rd  | Titanic Lab |
 | 16 | Feb 8th  | EDA (Exploratory Data Analysis) |
-| 17 | Feb 10th | Data Viz, *Airbnb Lab* |
+| 17 | Feb 10th | Data Viz, *Airbnb Lab (Tentative)* |
 |    | Feb 15th | **NO CLASS** |
 | 18 | Feb 17th | *Airbnb Lab Review (Tentative)* |
 | 19 | Feb 22nd | *Intro to APIs or Final Project Work (Tentative)* |
