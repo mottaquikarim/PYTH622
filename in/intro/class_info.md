@@ -9,15 +9,15 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 3  | Dec 14th | [Conditionals](#out/topics/conditionals)  |
 | 4  | Dec 16th | [Lists](#out/topics/lists) |
 | 5  | Dec 21st | [Tuples & Sets](#out/topics/tuples_sets), [Loops](#out/topics/loops) |
-| 6  | Dec 23rd | [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) |
+| 6  | Dec 23rd | [Loops](#out/topics/loops), [Dicts](#out/topics/dicts) |
 |    | Dec 28th | **NO CLASS** |
 |    | Dec 30th | **NO CLASS** |
 | 7  | Jan 4th  | [Functions](#out/topics/functions) |
-| 8  | Jan 6th  | [Classes](#out/topics/classes) |
+| 8  | Jan 6th  | [Functions](#out/topics/functions) |
 | 9  | Jan 11th | [Classes](#out/topics/classes) |
 | 10 | Jan 13th | Build Pandas from Scratch |
 |    | Jan 18th | **NO CLASS** |
-| 11 | Jan 20th | [Foundational Pandas Objects](#out/topics/classes), [Accessing Data](#out/topics/accessing_data) |
+| 11 | Jan 20th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
 | 12 | Jan 25th | Final Project Intro!, [Data Wrangling](#out/topics/wrangling1) |
 | 13 | Jan 27th | [Data Cleaning](#out/topics/data_cleaning) |
 | 14 | Feb 1st  | **TBD** |
