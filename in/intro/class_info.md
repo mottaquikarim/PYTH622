@@ -21,7 +21,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 12 | Jan 25th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
 | 13 | Jan 27th | Final Project Intro!, [Data Wrangling I](#out/topics/wrangling1) |
 | 14 | Feb 1st  | [Data Wrangling II](#out/topics/wrangling2) |
-| 15 | Feb 3rd  | Titanic Lab |
+| 15 | Feb 3rd  | [Titanic Lab](https://colab.research.google.com/drive/1KgU946zabYfuDaeve9z81OYNU4jGrn6B) |
 | 16 | Feb 8th  | EDA (Exploratory Data Analysis) |
 | 17 | Feb 10th | Data Viz, *Airbnb Lab (Tentative)* |
 |    | Feb 15th | **NO CLASS** |
