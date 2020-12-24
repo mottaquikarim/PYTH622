@@ -16,3 +16,9 @@ Please find all homework assignments here. Remember, HW submission form is avail
 * Please reread the section on [Lists](https://mottaquikarim.github.io/PYTH127/#out/topics/lists) from the class site. In particular, take a look at the **"Key Takeaways"** section, which you can reference going forward.
 * *OPTIONAL (recommended for those who don't feel 100% comfortable with the material covered thus far):*
 	* Complete all sections of the "lists" pset, found [here](https://colab.research.google.com/drive/1c7jljgXuu-z8Qc2QJ4f9k4ZaICG2ixR0?usp=sharing)
+
+### HW3 - Due 1/4/21, midnight
+
+* Reread the section on loops on the class website
+* Complete all sections of the "Loops" pset, found [here](https://colab.research.google.com/drive/1RY21T_9CBLcXf69emOefrFTLMeNJTy_k?usp=sharing)
+
