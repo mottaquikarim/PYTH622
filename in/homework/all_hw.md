@@ -22,3 +22,8 @@ Please find all homework assignments here. Remember, HW submission form is avail
 * Reread the section on loops on the class website
 * Complete all sections of the "Loops" pset, found [here](https://colab.research.google.com/drive/1RY21T_9CBLcXf69emOefrFTLMeNJTy_k?usp=sharing)
 
+### HW4 - Due 1/11/21, midnight
+
+* Read/Reread the section on **functions** on the class website
+* Complete all sections of the "Dicts" pset, found [here](https://colab.research.google.com/drive/1bUf8kapaCgOgHmgEaqijy4-PcRAQZUyc?usp=sharing)
+
