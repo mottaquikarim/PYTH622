@@ -27,7 +27,7 @@ Please find all homework assignments here. Remember, HW submission form is avail
 * Read/Reread the section on **functions** on the class website
 * Complete all sections of the "Dicts" pset, found [here](https://colab.research.google.com/drive/1bUf8kapaCgOgHmgEaqijy4-PcRAQZUyc?usp=sharing)
 
-### HW5 - Due 1/20/21, midnight
+### HW5 - Due 1/25/21, midnight
 
 * Complete all sections of the "Functions" pset, found [here](https://colab.research.google.com/drive/1cAptmre0FcMAwU3P0Z3fOEqJzivp6gDr?usp=sharing) **EXCEPT** that anything marked "Bonus" or "Challenge" is optional
 
