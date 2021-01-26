@@ -17,13 +17,13 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 9  | Jan 11th | [Functions](#out/topics/functions) |
 | 10 | Jan 13th | [Functions](#out/topics/functions) |
 |    | Jan 18th | **NO CLASS** |
-| 11 | Jan 20th | [Functions](#out/topics/functions) |
-| 12 | Jan 25th | [Overview of Classes](#out/topics/classes) |
-| 13 | Jan 27th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
-| 14 | Feb 1st  | Final Project Intro!, [Data Wrangling I](#out/topics/wrangling1) |
-| 15 | Feb 3rd  | [Data Wrangling II](#out/topics/wrangling2) |
-| 16 | Feb 8th  | [Titanic Lab](https://colab.research.google.com/drive/1KgU946zabYfuDaeve9z81OYNU4jGrn6B) |
-| 17 | Feb 10th | [EDA (Exploratory Data Analysis)](#out/topics/eda), *[Data Viz I](#out/topics/data_viz1) (Tentative)* |
+| 11 | Jan 20th | [Functions](#out/topics/functions), [Overview of Classes](#out/topics/classes) |
+| 12 | Jan 25th | [Foundational Pandas Objects](#out/topics/foundations_pandas), [Accessing Data](#out/topics/accessing_data) |
+| 13 | Jan 27th | Final Project Intro!, [Data Wrangling I](#out/topics/wrangling1) |
+| 14 | Feb 1st  | [Data Wrangling II](#out/topics/wrangling2) |
+| 15 | Feb 3rd  | [Titanic Lab](https://colab.research.google.com/drive/1KgU946zabYfuDaeve9z81OYNU4jGrn6B) |
+| 16 | Feb 8th  | Titanic Lab (cont'd) |
+| 17 | Feb 10th | [EDA (Exploratory Data Analysis)](#out/topics/eda), [Data Viz I](#out/topics/data_viz1) |
 |    | Feb 15th | **NO CLASS** |
 | 18 | Feb 17th | [Data Viz II](#out/topics/data_viz2), *Airbnb Lab (Tentative)* |
 | 19 | Feb 22nd | *Intro to APIs (Tentative)* |
