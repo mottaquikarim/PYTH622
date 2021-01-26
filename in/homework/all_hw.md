@@ -31,3 +31,6 @@ Please find all homework assignments here. Remember, HW submission form is avail
 
 * Complete all sections of the "Functions" pset, found [here](https://colab.research.google.com/drive/1cAptmre0FcMAwU3P0Z3fOEqJzivp6gDr?usp=sharing) **EXCEPT** that anything marked "Bonus" or "Challenge" is optional
 
+### HW6 - Due 2/1/21
+
+* Complete the "Taqueria" pset, found [here](https://colab.research.google.com/drive/1_jRCHAlePARNbOSVZogAr6gcEttKM1pa?usp=sharing)
