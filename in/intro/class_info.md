@@ -31,7 +31,9 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 
 
 ## [Final Project Info](#in/intro/finalproject)
- 
+
+## [Pandas Cheat Sheet](#out/resources/pandas_cheat_sheet)
+
 ## Office Hours
 
 * Mondays 7-8PM ET with Taq
