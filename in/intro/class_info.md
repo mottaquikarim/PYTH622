@@ -25,8 +25,8 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 16 | Feb 8th  | [Titanic Lab](https://colab.research.google.com/drive/1KgU946zabYfuDaeve9z81OYNU4jGrn6B) |
 | 17 | Feb 10th | [EDA (Exploratory Data Analysis)](#out/topics/eda), [Data Viz I](#out/topics/data_viz1) |
 |    | Feb 15th | **NO CLASS** |
-| 18 | Feb 17th | [Data Viz II](#out/topics/data_viz2), *Airbnb Lab (Tentative)* |
-| 19 | Feb 22nd | *Intro to APIs (Tentative)* |
+| 18 | Feb 17th | [Data Viz II](#out/topics/data_viz2) |
+| 19 | Feb 22nd | *TBD / Catch Up* |
 | 20 | Feb 24th | [Project Presentations]() |
 
 
