@@ -18,6 +18,12 @@
 
 This website is called: **[https://taq.website/PYTH127](https://taq.website/PYTH127)** -- please bookmark it! It will serve as your source of truth going forward.
 
+### Attendance
+
+*This is a General Assembly policy/requirement...*
+
+"Attending a lecture" is defined as joining the class via Zoom in real time (as opposed to watching the recording of the lecture later). You must have 80% attendance at lectures to "pass" this course and receive a certificate. 
+
 ### First Day Survey
 
 🤩🤩
@@ -76,11 +82,11 @@ In class, assignments and homework will be assigned from this problem bank. If y
 
 ### Homework
 
-There will be homework assigned _most_ weeks. This is a best effect scenario - you get back what you put in. Julianna will go over the homework during her **group** office hours. 
+There will be homework assigned _most_ weeks. This is a best effect scenario - you get back what you put in. Julianna will provide a video of herself going over the homework that people can watch asynchronously. 
 
-No grades will be delivered but instead, you can come to individual office hours with Taq after class on Wednesday to ask specific questions you may have.
+No grades will be delivered but instead, you can come to individual office hours with either Julianna or Taq after class on Wednesday to get individual feedback and/or ask specific questions you may have.
 
-Homework is linked on the class **homepage**, below the lectures. You will submit homework via a form available in the quick links section of class homepage.
+"HW Info" is linked on the class **homepage**. You will submit homework via a form available in the quick links section of class homepage.
 
 ### Zoom
 
