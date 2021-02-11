@@ -31,6 +31,10 @@ Please find all homework assignments here. Remember, HW submission form is avail
 
 * Complete all sections of the "Functions" pset, found [here](https://colab.research.google.com/drive/1cAptmre0FcMAwU3P0Z3fOEqJzivp6gDr?usp=sharing) **EXCEPT** that anything marked "Bonus" or "Challenge" is optional
 
-### HW6 - Due 2/3/21
+### HW6 - Due 2/3/21, midnight
 
 * Complete the "Taqueria" pset, found [here](https://colab.research.google.com/drive/1_jRCHAlePARNbOSVZogAr6gcEttKM1pa?usp=sharing)
+
+### HW7 - Due 2/17/21, midnight
+
+* Complete "Part 2" of the "Titanic Lab", found [here](https://colab.research.google.com/drive/1KgU946zabYfuDaeve9z81OYNU4jGrn6B?usp=sharing)
