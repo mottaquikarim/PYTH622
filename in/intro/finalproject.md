@@ -33,8 +33,7 @@ Problem statement and hypothesis
 
 These examples are meant to inspire ideas for your analysis. They should NOT be used as reference points for what you need to deliver with your project.
 
-* [Apple's iOS Appstore Analysis]()
+* [Dungeons & Dragons Character Lifespan Analysis](https://github.com/kb3uyi/GA-DnD-analysis/blob/main/dnd_analysis.ipynb)
+* [Investing - Buy Now or Buy the Dip?](https://github.com/jiannapark/buy_now_or_buy_the_dip/blob/master/buy_now_buy_the_dip_JiannaPark.ipynb)
 * [Weather Impact on NYC Electric Load](https://github.com/JPelaez91/GA_Final_Project/blob/master/NYC_Weather_Energy.ipynb)
-* [FBI NICS - Firearm Background Check Analysis](https://github.com/nmosewe/FBI-NICS---Firearm-Background-Check-Analysis/blob/master/fbi-nics-background-check-analysis.ipynb)
-* [Financial Development and Structure Research](https://github.com/RoyceKok211/Financial_Development_and_Structure_Research)
-* [CitiBike Usage/Weather Analysis](https://github.com/vetteryadam2/Citibike_Weather)
+* [Financial Development and Structure Research](https://github.com/RoyceKok211/Financial_Development_and_Structure_Research/blob/master/Financial_Development_and_Structure_Research.ipynb)
