@@ -1,3 +1,7 @@
+## Final
+
+[🎉 Final Day Presentations! 🎉](https://mottaquikarim.github.io/PYTH127/#in/intro/final)
+
 ## Lectures
 
 _Tentative_ schedule. Subject to change based on class pace and comfort level.
