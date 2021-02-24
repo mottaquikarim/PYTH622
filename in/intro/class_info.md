@@ -1,7 +1,3 @@
-## Final
-
-[🎉 Final Day Presentations! 🎉](https://mottaquikarim.github.io/PYTH127/#in/intro/final)
-
 ## Lectures
 
 _Tentative_ schedule. Subject to change based on class pace and comfort level.
@@ -30,8 +26,8 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 17 | Feb 10th | [EDA (Exploratory Data Analysis)](#out/topics/eda) |
 |    | Feb 15th | **NO CLASS** |
 | 18 | Feb 17th | [Data Viz I](#out/topics/data_viz1), [Data Viz II](#out/topics/data_viz2) |
-| 19 | Feb 22nd | *TBD / Catch Up* |
-| 20 | Feb 24th | [Project Presentations]() |
+| 19 | Feb 22nd | APIs |
+| 20 | Feb 24th | [🎉 Project Presentations! 🎉](https://mottaquikarim.github.io/PYTH127/#in/intro/final) |
 
 .
 
