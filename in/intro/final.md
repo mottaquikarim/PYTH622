@@ -28,7 +28,7 @@ You did good, fam.
 
 ![great job](https://media.giphy.com/media/OcZp0maz6ALok/giphy.gif)
 
-## Thanks ANDY!
+## Thanks JULIANNA!
 
 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
 
