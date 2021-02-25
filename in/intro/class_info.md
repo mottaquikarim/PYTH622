@@ -27,7 +27,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 |    | Feb 15th | **NO CLASS** |
 | 18 | Feb 17th | [Data Viz I](#out/topics/data_viz1), [Data Viz II](#out/topics/data_viz2) |
 | 19 | Feb 22nd | APIs |
-| 20 | Feb 24th | [🎉 Project Presentations! 🎉](https://mottaquikarim.github.io/PYTH127/#in/intro/final) |
+| 20 | Feb 24th | [🎉 Project Presentations! 🎉](#in/intro/final) |
 
 .
 
