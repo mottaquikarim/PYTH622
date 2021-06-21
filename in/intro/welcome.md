@@ -20,9 +20,9 @@ This website is called: **[https://taq.website/PYTH622](https://taq.website/PYTH
 
 ### Attendance
 
-*This is a General Assembly policy/requirement...*
+Although recordings of each class will be made available, you are required to attend each class in real time in order to get credit for attendance. *This is a General Assembly policy/requirement...* You must have 80% attendance at lectures to "pass" this course and receive a certificate. 
 
-"Attending a lecture" is defined as joining the class via Zoom in real time (as opposed to watching the recording of the lecture later). You must have 80% attendance at lectures to "pass" this course and receive a certificate. 
+At the start of every class, you will be asked to fill out a form to **check-in** to class. This form will require a **token** that will be communicated to you verbally via Zoom. This ensures that whoever checked in was at least present in the beginning of class. The link for attendance check-in will be posted to the *#general* channel in Slack at the beginning of every class. 
 
 ### First Day Survey
 
@@ -57,20 +57,13 @@ Generally speaking, try to reply in threads. So for example, if Person A posts a
 
 Reactions are encouraged! During class, I might take the "room temperature" by soliciting reactions. As such, **please keep slack available and open** during lecture!
 
-DMs: feel free to DM **both** Julianna and me for any question you have. Ideally, questions about content should be in #questions chan (unless you don't feel comfortable). Things specific to your situation or more private ought to be DM'd directly. Again, please CC the both of us - this increases the liklihood that we get back to you faster!
-
-
-### Attendance
-
-At the start of every class, you will be asked to fill out a form to **check-in** to class. This form will require a **token** that will be communicated to you verbally via Zoom. This ensures that whoever checked in was at least present in the beginning of class.
-
-The link for attendance check-in will be posted to the *#general* channel in Slack at the beginning of every class. 
+DMs: feel free to DM **both** Julianna and me for any question you have. Ideally, questions about content should be in #questions chan (unless you don't feel comfortable). Things specific to your situation or more private ought to be DM'd directly. Again, please CC the both of us - this increases the likelihood that we get back to you faster!
 
 ### Questions/Feedback
 
 Feedback is a **key** part of this course. At the end of every lecture, we will ask you to fill out an **[exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSeSJGd8dypyY7azz3AyDNZ8t2zdUKDBi0Oz6UUD59gWIytxIQ/viewform)** (also available via the quick links section on class homepage).
 
-Feedback and also questions are paramount to our success as a class and your success in learning to code. Please don't be shy! If you feel comfortable, pleaes ask your question on the Slack *#questions* channel. Otherwise, please DM Julianna and Taq directly for specific/personal questions.
+Feedback and also questions are paramount to our success as a class and your success in learning to code. Please don't be shy! If you feel comfortable, pleaes ask your question on the Slack *#questions* channel. Otherwise, please DM me directly for specific/personal questions.
 
 ### PSETs/Practice
 
@@ -78,13 +71,11 @@ Practicing is the **ONLY** way to effectively learn to code. Full Stop.
 
 As a result, I have _lots_ of practice problems available for you to try. Please find them [here](https://drive.google.com/drive/folders/1Lhh37bM0SOXgt8TnPb4U2R-t_e-XkIyc) -- they are also available in the quick links section of the class homepage.
 
-In class, assignments and homework will be assigned from this problem bank. If you need help with practice problems, please reach out to Julianna! Questions that are particularly difficult I will address in class, based on the reports provided by the squad leads.
+In class, assignments and homework will be assigned from this problem bank. If you need help with practice problems, please attend office hours and/or post your questions in the *#questions* channel on Slack! Questions that are particularly difficult I will address in class.
 
 ### Homework
 
-There will be homework assigned _most_ weeks. This is a best effect scenario - you get back what you put in. Julianna will provide a video of herself going over the homework that people can watch asynchronously. 
-
-No grades will be delivered but instead, you can come to individual office hours with either Julianna or Taq after class on Wednesday to get individual feedback and/or ask specific questions you may have.
+There will be homework assigned _most_ weeks. This is a best effect scenario - you get back what you put in. No grades will be delivered, and answers for each pset will be provided. If you have questions or want individual feedback, please attend office hours. 
 
 "HW Info" is linked on the class **homepage**. You will submit homework via a form available in the quick links section of class homepage.
 
@@ -92,9 +83,9 @@ No grades will be delivered but instead, you can come to individual office hours
 
 Please edit your zoom name to include your first name and if possible, profile picture.
 
-You are encouraged to ask questions on Slack, Julianna will pick up the question and optionally ask me so that I can cover with the entire class or, if specific enough, just reply back to you with an answer.
+You are encouraged to ask questions on Slack!
 
-Also, when we do in-class exercises, we will split into "breakout rooms" where you will be paired with folks 1-2 of your class mates. Taq and Julianna will pop in and out of these rooms in order to ensure you are staying on track and any specific questions that you may have are answered. If you would like to flag our attention, please @-msg us on Slack!
+Also, when we do in-class exercises, we will split into "breakout rooms" where you will be paired with folks 1-2 of your class mates. I will pop in and out of these rooms in order to ensure you are staying on track and any specific questions that you may have are answered. If you would like to flag my attention, please @-msg me on Slack!
 
 ## Tools
 
