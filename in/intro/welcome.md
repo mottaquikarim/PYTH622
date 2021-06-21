@@ -20,9 +20,9 @@ This website is called: **[https://taq.website/PYTH622](https://taq.website/PYTH
 
 ### Attendance
 
-*This is a General Assembly policy/requirement...*
+Although recordings of each class will be made available, you are required to attend each class in real time in order to get credit for attendance. *This is a General Assembly policy/requirement...* You must have 80% attendance at lectures to "pass" this course and receive a certificate. 
 
-"Attending a lecture" is defined as joining the class via Zoom in real time (as opposed to watching the recording of the lecture later). You must have 80% attendance at lectures to "pass" this course and receive a certificate. 
+At the start of every class, you will be asked to fill out a form to **check-in** to class. This form will require a **token** that will be communicated to you verbally via Zoom. This ensures that whoever checked in was at least present in the beginning of class. The link for attendance check-in will be posted to the *#general* channel in Slack at the beginning of every class. 
 
 ### First Day Survey
 
@@ -58,13 +58,6 @@ Generally speaking, try to reply in threads. So for example, if Person A posts a
 Reactions are encouraged! During class, I might take the "room temperature" by soliciting reactions. As such, **please keep slack available and open** during lecture!
 
 DMs: feel free to DM **both** Julianna and me for any question you have. Ideally, questions about content should be in #questions chan (unless you don't feel comfortable). Things specific to your situation or more private ought to be DM'd directly. Again, please CC the both of us - this increases the likelihood that we get back to you faster!
-
-
-### Attendance
-
-Although recordings of each class will be made available, you are required to attend each class in real time in order to get credit for attendance. 
-
-At the start of every class, you will be asked to fill out a form to **check-in** to class. This form will require a **token** that will be communicated to you verbally via Zoom. This ensures that whoever checked in was at least present in the beginning of class. The link for attendance check-in will be posted to the *#general* channel in Slack at the beginning of every class. 
 
 ### Questions/Feedback
 
