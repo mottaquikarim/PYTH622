@@ -28,10 +28,6 @@ You did good, fam.
 
 ![great job](https://media.giphy.com/media/OcZp0maz6ALok/giphy.gif)
 
-## Thanks JULIANNA!
-
-👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
-
 ## Presentation guidelines
 
 * Introduce and briefly scroll through your project, pointing out important / interesting details
@@ -41,4 +37,6 @@ You did good, fam.
 
 ## Presentations
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrr9uE3PQUiiZpIQ?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+*TBD*
+
+<!-- <iframe class="airtable-embed" src="https://airtable.com/embed/shrr9uE3PQUiiZpIQ?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
