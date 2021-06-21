@@ -78,11 +78,15 @@ contentDom.addEventListener('click', e => {
 })
 
 window.onhashchange = e => {
+    console.log('HERE')
     closeMenu();
 	href = location.hash.slice(1)
     let file = null;
     let is_md = false;
     console.log(href)
+    if (!href) {
+        return
+    }
     if (href.indexOf(`${INPUT_FILE}/`) !== -1) {
         file = get_file(`${href}.md`);
         is_md = true;
@@ -93,6 +97,7 @@ window.onhashchange = e => {
 
     file
         .then(content => {
+            console.log("HERE")
 			while (contentDom.hasChildNodes()) {
 				contentDom.removeChild(contentDom.lastChild);
 			}
@@ -148,11 +153,12 @@ all_files
     .then(([out_, in_]) => {
 		const {files} = out_ ;
 		let i = 0
+        console.log(files)
 		files.forEach(file => {
-			console.log(file)
+			//console.log(file)
 			const keys = Object.keys(file)
 			const title = keys[0]
-			console.log(title, file[title])
+			//console.log(title, file[title])
 			const links_txt = file[title].map(link => {
                 const key = Object.keys(link)
                 const val = link[key]
@@ -170,7 +176,7 @@ all_files
                     }
                 	isactive = ' active';
                 }
-		console.log(path, window.location.hash.slice(1))
+		        //console.log(path, window.location.hash.slice(1))
                 if (window.location.hash.slice(1) == path) {
                     window.location.hash = "";
                     window.location.hash = path ;
@@ -187,6 +193,17 @@ all_files
 			    ${links_txt.join('\n')}
             </ol>`
 		})
+    })
+    .then(_ => {
+        if (window.location.hash !== "") {
+            tmp = window.location.hash
+            console.log(tmp)
+            window.location.hash = ""
+            setTimeout(() => {
+                window.location.hash = tmp
+                console.log(window.location.hash)
+            }, 50)
+        }
     })
 
 /*
