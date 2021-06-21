@@ -1,3 +1,3 @@
-# PYTH127
+# PYTH622
 
 Hello, Wrold!

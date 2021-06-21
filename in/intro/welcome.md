@@ -16,7 +16,7 @@
 
 **We are here to learn Python**.
 
-This website is called: **[https://taq.website/PYTH127](https://taq.website/PYTH127)** -- please bookmark it! It will serve as your source of truth going forward.
+This website is called: **[https://taq.website/PYTH622](https://taq.website/PYTH622)** -- please bookmark it! It will serve as your source of truth going forward.
 
 ### Attendance
 

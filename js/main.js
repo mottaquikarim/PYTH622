@@ -65,7 +65,7 @@ contentDom.addEventListener('click', e => {
         if (anch.getAttribute('href').indexOf('https://colab.research.google.com/github/mottaquikarim/pycontent') !== -1) {
             e.preventDefault();
             let href = anch.getAttribute('href')
-            window.open(href.replace('mottaquikarim/pycontent', 'mottaquikarim/PYTH127').replace('.out', 'out'))
+            window.open(href.replace('mottaquikarim/pycontent', 'mottaquikarim/PYTH622').replace('.out', 'out'))
             return;
         }
     }
