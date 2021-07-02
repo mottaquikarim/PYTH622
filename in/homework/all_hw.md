@@ -14,6 +14,10 @@ That's it!
 
 * Complete the "Shopping List" section of the "basic_data_types" pset, found [here](https://colab.research.google.com/drive/1hSxgslfvS61xgqf7lLsFV5AUYsn2m5nr?usp=sharing)
 
+### HW2 - Due 7/6/21, midnight
+
+* Complete the "RPS" section of the "conditional_psets" pset, found [here](https://colab.research.google.com/drive/11AI5Fq9QOrjH6xWv0zgK6p15V-VZvXAn?usp=sharing)
+
 <!--  
 * Please read the section on [Modules](https://mottaquikarim.github.io/PYTH622/#out/topics/modules) from the class site.
 * *OPTIONAL (recommended for those who don't feel 100% comfortable with the material covered thus far):*
