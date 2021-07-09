@@ -10,13 +10,22 @@ Please find all homework assignments here. Remember, HW submission form is avail
 
 That's it!
 
-### HW1 - Due 6/28/21, midnight
+### HW3 - Due 7/13/21, midnight
 
-* Complete the "Shopping List" section of the "basic_data_types" pset, found [here](https://colab.research.google.com/drive/1hSxgslfvS61xgqf7lLsFV5AUYsn2m5nr?usp=sharing)
+* Read the section in notes called ["Tuples & Sets"](https://mottaquikarim.github.io/PYTH622/#out/topics/tuples_sets)
+* Complete the "tuples_sets_psets.ipynb" pset, found [here](https://colab.research.google.com/drive/13nYHPdUiZiMrzICnsJgeKvxEb19iZiq_?authuser=1#scrollTo=3YuVvl6vVSvP)
+* Complete the "Basics" section of the "loop_psets.ipynb" pset, found [here](https://colab.research.google.com/drive/1Vb7nFQ150xyX8Pw3lN-fo0T6BpphVnpz?authuser=1#scrollTo=uVRP-haTUEUp)
+
 
 ### HW2 - Due 7/6/21, midnight
 
 * Complete the "RPS" section of the "conditional_psets" pset, found [here](https://colab.research.google.com/drive/11AI5Fq9QOrjH6xWv0zgK6p15V-VZvXAn?usp=sharing)
+
+
+### HW1 - Due 6/28/21, midnight
+
+* Complete the "Shopping List" section of the "basic_data_types" pset, found [here](https://colab.research.google.com/drive/1hSxgslfvS61xgqf7lLsFV5AUYsn2m5nr?usp=sharing)
+
 
 <!--  
 * Please read the section on [Modules](https://mottaquikarim.github.io/PYTH622/#out/topics/modules) from the class site.
