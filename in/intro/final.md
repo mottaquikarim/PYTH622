@@ -17,7 +17,6 @@ You did good, fam.
 #### Abstractions
 
 - Functions
-- Classes
 - Modules
 
 #### Applications in Data
